@@ -1,0 +1,9 @@
+Populär väder-app skickar platsdata utan tillstånd
+
+
+Mats Karlsson
+
+
+Den amerikanska vädertjänsten Accuweathers mycket populära väder-app för IOS skickar platsdata till annonsörer även om man väljer att inte tillåta appen att samla in platsdata. Det slår nu säkerhetsforskaren Will Strafach larm om.
+
+Det är med hjälp av kod från företaget Revealmobile som appen trots nekad platsdelning försöker lokalisera användaren så gott det går ändå, bland annat genom att kontrollera var eventuella wifi-nätverk man ansluter sig mot finns rent geografiskt. Uppgifterna skickas vidare till Revealmobile, som sedan kan spåra användaren.
