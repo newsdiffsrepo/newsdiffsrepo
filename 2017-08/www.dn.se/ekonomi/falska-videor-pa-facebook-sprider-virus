@@ -1,0 +1,16 @@
+Falska videor på Facebook sprider virus
+Linus Larsson
+
+Attacken sprids via meddelanden på Facebook som lurar användare att klicka på en länk. Meddelandet ser ut att leda till ett filmklipp, försett med mottagarens namn en glad smiley.
+
+Men i stället för att komma till Youtube skickas den som råkar klicka på en falsk videosajt. Där ombeds hen installera ett tillägg i webbläsaren för att kunna se filmen. I själva verket är tillägget utformat för att ta kontroll över kontot. Det betyder att lösenordet kan ändras. Programmet kan också själv skicka meddelanden, vilket används för att sprida attacken till ännu fler.
+
+Den aktuella attacken tycks vara inriktad på webbläsaren Chrome, som är mycket vanlig på både Windows och Mac. Norska Nettavisen publicerade i somras instruktioner för den som har drabbats av en likartad attack.
+
+Den som har gått på bluffen ska försöka avinstallera tilläggsprogrammet i webbläsaren. Det kan dock vara svårt, eftersom angriparen tycks försvåra att nå inställningarna.
+
+Ett annat sätt att lösa problemet är att återställa Chrome till standardinställningar. Nackdelen är att alla andra inställningar, sparade lösenord och installerade tillägg då också försvinner. Du hittar återställningsfunktionen genom att klicka Inställningar > Avancerat (hittas längst ner) > Återställ.
+
+Har man drabbats bör man också byta lösenord till sitt Facebookkonto. Även detta kan angriparen försöka förhindra en från, men det ska ändå vara möjligt om man går direkt till sidan för lösenordsbyte som kan nås här.
+
+Som vanligt rekommenderas användare att vara försiktiga med länkar som skickas oväntat, även om de kommer från personer man vanligtvis litar på. Det gäller även länkar utformade på andra sätt än vad som beskrivs ovan, eftersom bedragare ofta ändrar sina upplägg.Attacker av denna typ har figurerat en tid, men tog ny fart under sommaren.
