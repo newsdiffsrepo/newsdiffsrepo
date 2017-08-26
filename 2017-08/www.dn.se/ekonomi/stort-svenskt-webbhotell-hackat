@@ -1,0 +1,16 @@
+Stort svenskt webbhotell hackat
+Linus Larsson
+
+Dataintrånget blev allmänt känt på fredagseftermiddagen. Loopia skrev då i ett mejl till sina kunder att deras uppgifter kan ha läckt. ”Vi har registrerat ett intrång på en server som innehåller dina kontakt- och personuppgifter”, skriver företaget i mejlet som DN har tagit del av.
+
+– Vi har blivit utsatta för ett kriminellt intrång i våra system. Vi ser allvarligt på det och gör allt för att begränsa skadan, säger Jimmie Eriksson, vd på Loopia.
+
+Intrånget upptäcktes redan i tisdags men företaget väntade alltså till fredagen med att informera kunderna. Detta enligt Jimmie Eriksson för att säkerhetsproblemen skulle vara åtgärdade innan Loopia drog uppmärksamhet till det.
+
+– Vi ville se till att den väg de tog sig in var åtgärdad och att det inte skulle kunna ske igen.
+
+Vidare bekräftas att angriparna kan ha kommit åt databasen med lösenord. Den ska dock ha varit skyddad genom så kallad hashning. Det är en form av kryptering som, rätt använd, gör det mycket svårare att knäcka lösenorden. Alla kunder uppmanas ändå att byta lösenord omgående.
+
+Jimmie Eriksson vill inte kommentera vad angriparna tycks ha varit ute efter eller om det finns några spår efter dem. Händelsen är polisanmäld.
+
+Loopia är ett av Sveriges största webbhotell och driver webbplatser åt framför allt mindre företag. Det omsatte 139 miljoner kronor enligt det senaste bokslutet. Bland kunderna finns också offentliga verksamheter, bland annat Karolinska institutet, Stockholms stad och Västra Götalandsregionen, enligt Allabolag.se.
