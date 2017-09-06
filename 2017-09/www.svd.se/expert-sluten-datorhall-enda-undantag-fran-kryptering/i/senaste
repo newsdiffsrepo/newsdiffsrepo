@@ -1,0 +1,39 @@
+Expert: Sluten datorhall enda undantag från kryptering
+
+Jan Majlard
+
+Tisdagens avslöjande från SR Ekot handlade om huruvida rikspolischefen Dan Eliasson brutit mot Säkerhetsskyddsförordningen då han 2015 godkänt att hemlig information om poliser via en outsourcing gjorts tillgänglig för det internationella bolaget CGI, utan att Försvarsmaktens krypteringslösning har använts för överföringen.
+
+Polisledningen satt under onsdagen i möte med inrikesminister Morgan Johansson för att räta ut frågetecken.
+
+Polisen har lagt ut en text på sin hemsida:
+
+”Det har blivit ett missförstånd kring grunderna för beslutet att inte använda kryptolösningen från Försvarsmakten. Det finns utrymme att använda andra säkra lösningar när det, som i detta fall, gäller it-nätverk som kontrolleras av oss själva. Här har vårt beslut varit otydligt, vilket vi beklagar”.
+
+Polisen skriver också:
+
+”Om hemliga uppgifter sänds i datanät som polisen har kontroll över behöver försvarsmaktskrypto inte användas utan andra kryptosystem får användas, i enlighet med Säkerhetsskyddsförordningens §13”.
+
+Samtidigt vill Polisen inte i detalj berätta hur den ifrågasatta överföringen gått till.
+
+– Du får ta texten på vår hemsida, säger presstalespersonen Towe Hägg till SvD.
+
+Anledningen till outsourcingen var att polisens personal- och lönehantering Palasso behövde läggas ut då myndigheten inte klarade av det själv. I systemet finns namn, personnummer och löner på anställda samt uppgifter om närmaste anhöriga och barn. Men även information om till exempel enskilda polisers resor.
+
+Kim Hakkarainen, IT-säkerhetsexpert och tidigare anställd på Must, Försvarets militära- och underrättelsetjänst, säger till SvD att det finns ett läge då krypteringskravet inte gäller:
+
+– I en datorhall där massor av servrar kommunicerar över ett datanät – och myndigheten har fysisk kontroll med lås och bevakning – kan kryptering undantas. Men så fort kommunikationen lämnar byggnaden är det en annan sak, säger han.
+
+IT-säkerhetsexperten är förbryllad över formuleringen i rikspolischefens beslut från 2015 där det står att det ”innebär en risk att signalskyddet inte är tillräckligt säkert”. Det krävs alltid ett godkännande av regeringen om kryptering inte ska äga rum.
+
+– Det är motsägelsefullt. Polisen har gett oerhört knapphändig information. Jag tror inte heller att dagens möte med Morgan Johansson kommer att gå in på detaljer i bakgrunden, säger Kim Hakkarainen.
+
+Enligt källor till SvD kontaktade Säpo Polismyndigheten i månadsskiftet maj/juni för att få in uppgifter om just outsourcingen av personal- och lönehanteringen. Avslöjandena om outsourcingen som Transportstyrelsen gjorde till IBM 2014 ligger då nära i tiden.
+
+Finns det ett symptom bland myndigheter?
+
+– Riksrevisionen har varit tydlig med att det inte står rätt till. Man tar inte frågan på allvar på ledningsnivå i myndigheterna. Då kan det ta sig sådana här uttryck. I det här fallet öppnar det upp för andra staters underrättelsetjänster. Och det finns inget kvitto på om det hänt något eller inte, säger Kim Hakkarainen.
+
+Det internationella dataföretaget CGI, tidigare VM-data och Logica, har 27 kontor runt om i Sverige. Presschefen Robert Almqvist säger:
+
+– Sekretessen är starkt reglerad i våra avtal. Vi får aldrig prata om hur installationer utförts. Det gäller oavsett om det rör sig om företag eller myndigheter, säger han.
