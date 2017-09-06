@@ -2,8 +2,28 @@ Dan Eliasson: ”Jag har inte brutit mot lagen”
 
 TT
 
-Personalen som har haft hand om IT-verksamheten har suttit i Sverige och jobbat mot polisens serverhallar i Sverige.
+Dan Eliasson säger dock att han är självkritisk till hur beslutet som han undertecknade för att inte använda en kryptering från Försvarsmakten är skrivet.
 
-Däremot är han självkritisk till hur beslutet som han undertecknade för att inte använda en kryptering från Försvarsmakten är skrivet.
+– När jag läser beslutet i dag mot bakgrund det som har skett i Transportstyrelsen så ser jag att det inte är tillräckligt bra formulerat. Det är olyckligt, säger Dan Eliasson till TT.
 
-- När jag läser beslutet i dag mot bakgrund det som har skett i Transportstyrelsen så ser jag att det inte är tillräckligt bra formulerat. Det är olyckligt, säger Dan Eliasson till TT.
+Sveriges Radios Ekot rapporterade på tisdagskvällen om att Rikspolischefen Dan Eliasson ska ha gett privata företag åtkomst till känslig och hemlig information från Polismyndighetens personal- och lönesystem, och att det stred mot säkerhetsskyddsförordningen.
+
+– Vad jag har fattat beslut om är att inte använda försvarskrypto utan att använda andra säkra lösningar. Vi har inte lagt ut någon information till tredje part och har inte outsourcat, säger Dan Eliasson till TT.
+
+– Det hade ingenting med effektivitet, tidspress eller någonting liknande så att vi kunde betala ut våra löner, säger Eliasson till TT.
+
+Polisens IT-chef, Tomas Landeström, säger att polisen enligt bestämmelserna kunde välja en annan kryptering än Försvarsmaktens.
+
+– I de fall vi har ett datanät inom vår kontroll då får vi använda valfritt krypto, Försvarsmaktskrypto eller annat. Vi har i våra ordinarie nät som vi använder i det här fallet väldigt omfattande kryptolösningar. Det finns inget skäl att föra in Försvarsmaktskrypto i den delen så därför valde vi inte det helt enkelt, säger han till TT.
+
+– Vi tittade över de olika alternativen och fann att det var snabbare bättre och enklare för alla parter och minst lika säkert att använda det vi redan hade.
+
+Polisen menar att informationen "inte varit äventyrad på något sätt". Tomas Landeström säger att det inte skickas någon information mellan systemet Palasso och det kanadensiska företaget överhuvudtaget.
+
+– Det är en uppkoppling där den här leverantören sitter uppkopplad i våra datanät. De är godkända med säkerhetsskyddsavtal och registerkontrollerade, som det ska vara. De arbetar i vårt datanät och våra servrar i Kronoberg, precis som all annan personal vi har, både anställda och konsulter, säger han.
+
+Dan Eliasson säger att han är helt trygg med att man har agerat i enlighet med säkerhetsskyddsförordningen.
+
+TT: Vad har bidragit till det här missförståndet då?
+
+- Det är väldigt svår materia. Det är också så att Transportstyrelsen skickar sina ekon i sammanhanget, det finns en osäkerhet. Det är också svårt för oss att kommentera frågor om krypterad kommunikation för de frågorna är faktiskt kvalificerat hemliga och har betydelse för rikets säkerhet.
