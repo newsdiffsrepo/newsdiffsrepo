@@ -1,0 +1,9 @@
+Förenklad och förbättrad livestreaming på Youtube
+
+
+Mats Karlsson
+
+
+Youtube har genomfört ett flertal förbättringar av funktionen för livestreaming på sin plattform. Bland annat har man implementerat ”ultra low latency”, vilket innebär att det som livesänds får en minimal fördröjning. Nackdelen är att det hela kan medföra mer buffring av data för tittarna. Dessutom har man gjort det enklare att moderera kommentarer i samband med sändningarna.
+
+För IOS-användarna har man dessutom lagt till möjligheten att livestreama sin Iphone-skärm direkt till sin Youtube-kanal, något som kräver att appen i fråga har stöd för Apples Replay Kit.
