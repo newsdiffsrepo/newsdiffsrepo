@@ -1,49 +1,45 @@
-Ministern: ”Ska gå till botten med det här”
+Eliasson: ”Jag har inte brutit mot lagen”
 
 TT
 
-Morgan Johansson säger till Sveriges Radio att han tidigare inte känt till avsteget från Säkerhetsskyddsförordningen, men att det är för tidigt att säga hur allvarligt det är.
+Dan Eliasson säger att han har varit på tjänsteresa, men nu vill han räta ut frågetecknen kring vad som skedde när polisen behövde hjälp med att hantera sitt lönesystem, Palasso, 2015.
 
-– I går eftermiddags fick jag veta det. Jag vet att min statssekreterare fick veta det här dagen innan, alltså i måndags. Så det är ju i närtid, säger Morgan Johansson till TT.
+– Vi är helt trygga med att den lösning vi har valt är i enlighet med säkerhetsskyddsförordningen, säger rikspolischefen.
 
-– Vad vi då bestämde oss för är att nu gäller det att polisen kommer in med en fullständig redogörelse för vad som egentligen har förevarit, vad det här handlar om. Därför begärde vi att polisen skulle komma till regeringskansliet i dag på förmiddagen och träffa min statssekreterare. Så de har suttit och gått igenom det här.
+Anledningen till det är att IT-driften hanterades helt och hållet inom Sverige och inom Polismyndigheten samt att det redan fanns säkra krypteringslösningar, säger Eliasson.
 
-Enligt Morgan Johansson finns inget som tyder på att någon inom regeringskansliet kände till det aktuella beslutet förrän i måndags.
+– Det här var för att hitta alternativa säkra lösningar till försvarsmaktskrypto. Det hade ingenting med effektivitet, tidspress eller någonting liknande att göra utan det var så att vi kunde betala ut våra löner.
 
-– En fråga som jag ställde, det här ligger ju ett par år tillbaka i tiden, det är ju ett beslut som fattades 2015, det var ju om har vi vetat om det här tidigare. Men våra tjänstemän i går sade att nej, det här har vi inte haft någon kännedom om tidigare.
+Tomas Landeström, polisens IT-chef, säger att det inte fanns anledning att använda Försvarsmaktens kryptering.
+
+– Vi tittade över de olika alternativen och fann att det var snabbare, bättre och enklare för alla parter och minst lika säkert att använda det vi redan hade.
+
+Polisen menar att informationen om bland annat anställdas namn, personnummer, löner och information om anhöriga "inte har varit äventyrad på något sätt". Tomas Landeström säger att det inte skickas någon information mellan systemet Palasso och det kanadensiska företaget CGI överhuvudtaget.
+
+– Det är en uppkoppling där den här leverantören sitter uppkopplad i våra datanät. De är godkända med säkerhetsskyddsavtal och registerkontrollerade, som det ska vara. De arbetar i vårt datanät och våra servrar i Kronoberg, precis som all annan personal vi har, både anställda och konsulter, säger han.
+
+TT frågar Dan Eliasson vad som i sådana fall har bidragit till missförståndet om beslutet.
+
+– Det är väldigt svår materia. Det är också så att Transportstyrelsen skickar sina ekon i sammanhanget, det finns en osäkerhet. Det är också svårt för oss att kommentera frågor om krypterad kommunikation för de frågorna är faktiskt kvalificerat hemliga och har betydelse för rikets säkerhet.
+
+Han medger dock att beslutet från våren 2015 är otydligt.
+
+– När jag läser beslutet i dag mot bakgrund det som har skett i Transportstyrelsen så ser jag att det inte är tillräckligt bra formulerat. Det är olyckligt och beklagar jag, säger Dan Eliasson.
+
+Säkerhetspolisen har inte upprättat någon förundersökning med anledning av uppgifterna som framkommit men går igenom dem för att se om åtgärder krävs.
+
+– Vår uppgift är att skydda rikets säkerhet så vi säkerställer att obehöriga uppgifter inte har spridits, och vi undersöker om ett brott har begåtts, säger Johanna Blomqvist på Säpos pressjour.
+
+Allt handlar om ett beslut som fattades i samband med att polisen behövde hjälp med sin personal- och lönehantering av det privata företag som äger systemet. Enligt Sveriges Radio Ekot gavs kanadensiska CGI åtkomst till systemet från företagets egna lokaler utanför Polismyndigheten.
+
+För att snabba på processen beslutade Dan Eliasson våren 2015 att göra ett undantag från regeln att en krypteringsmetod godkänd av Försvarsmakten måste användas när så pass känslig information skickas mellan ett externt företag och polisen. Därmed ska rikspolischefen ha brutit mot säkerhetsskyddsförordningen, enligt Ekot.
+
+"Gå på djupet"
+
+Morgan Johansson säger att han informerades om Eliassons beslut i tisdags.
 
 Har du fått någon klarhet i om polisen faktiskt brutit mot den här förordningen eller inte?
 
-– Nej, jag har trots allt hunnit vara med ett tag, nästan 20 år. En sak har jag lärt mig, att man måste alltid se båda sidor. Både medieuppgifter, sedan måste man kontrollera det med den andra sidan innan man kan bilda sig en fullständig uppfattning. Det var därför jag i går sade att nu måste polisen komma hit, så att vi kan gå igenom det på djupet. Det är bakgrunden till mötet i förmiddags.
+– Nej, jag har trots allt hunnit vara med ett tag, nästan 20 år. En sak har jag lärt mig, att man måste alltid se båda sidor. Det var därför jag i går (tisdag) sade att nu måste polisen komma hit, så att vi kan gå igenom det på djupet, säger Johansson, och syftar på ett möte som hållits i dag mellan hans statssekreterare och företrädare för polisen.
 
-Men hur allvarligt vore det, om det stämde?
-
-– Jag ska inte spekulera i det där nu. Det jag är inriktad på är att få in så mycket information som möjligt om vad som verkligen har förevarit. Jag ser ju att polisen bestrider en del av uppgifterna, då vill jag gärna känna efter, vad är det verkligen som har hänt, innan jag börjar värdera det.
-
-Polisen bekräftar att man beslutat att ge myndighetens IT-avdelning rätt att inte använda Försvarsmaktens kryptering, och i stället använda "andra säkerhetslösningar". Men detta har skett vid användning av "datanät inom polisens kontroll" och "helt i enlighet med paragraf 13 i säkerhetsskyddsförordningen", skriver myndigheten i ett pressmeddelande.
-
-Att man skulle ha brutit mot förordningen bygger på feltolkningar av Polismyndighetens beslut, som är "otydligt formulerat", skriver polismyndigheten.
-
-"Det ger en missvisande beskrivning av vad vi de facto har gjort. Vilket vi beklagar". Man försäkrar också att skyddsvärda uppgifter "är väl skyddade".
-
-Morgan Johanssons statssekreterare tar i dag emot företrädare för Polismyndigheten för att få information om vad som hänt. Men varken statsrådet själv, eller rikspolischefen, deltar vid mötet enligt justitiedepartementets pressekreterare.Det var på tisdagen som Sveriges Radio Ekot avslöjade att myndigheten beslutat att strunta i att kryptera känslig och hemlig information med en krypteringslösning som är godkänd av Försvarsmakten, när man 2015 lade ut sitt personal- och lönesystem på ett privat kanadensiskt företag.
-
-I systemet finns bland annat anställdas namn, personnummer och löner, samt uppgifter om närmaste anhöriga och barn.
-
-Tillvägagångssättet bryter mot Säkerhetsskyddsförordningen och rikspolischefen kan inte själv fatta beslut om att göra avsteg från reglerna, enligt Militärens underrättelse- och säkerhetstjänst (Must). För detta behövs ett beslut från regeringen, vilket inte finns, uppger regeringskansliet för Ekot.
-
-Eliasson har efter avslöjandet mött hård kritik från oppositionen, inklusive Vänsterpartiet, som kräver att han förklarar sitt agerande.
-
-Eliasson vill på onsdagen fortfarande inte uttala sig.
-
-– Han har ingen möjlighet i dag, säger Carolina Ekéus, pressekreterare vid polisens Nationella operativa avdelning, till TT.
-
-Hon vill inte kommentera Ekots uppgifter, men tillägger att Polisen kommer att gå ut med mer information.
-
-– Vi återkommer när vi har något mer att säga.
-
-TT har sökt företrädare för Militära underrättelse- och säkerhetstjänsten (Must) som i går uttalade sig i Ekot om att polisens tillvägagångssätt bryter mot förordningen.
-
-Must vill i nuläget inte kommentera polisens skriftliga uttalande där de skriver att uppfattningen om att de brutit mot säkerhetsförordningen bygger på feltolkningar.
-
-– I nuläget kommer vi inte att kommentera det här ytterligare. Det här är en fråga för polisen och nu håller polisen på att förklara sig för sin uppdragsgivare, säger Jesper Tengroth, pressekreterare på Försvarsmakten.
+Moderaternas rättspolitiska talesperson och ordförande i justitieutskottet, Tomas Tobé, säger att han har talat med justitieminister Morgan Johansson och att de är överens om att både ministern och rikspolischefen Dan Eliasson ska komma till utskottet för att svara på frågor om vad som skett när det gäller polisens IT-hantering av känsliga uppgifter.
